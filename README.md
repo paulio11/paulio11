@@ -25,8 +25,6 @@ Turning my Twitter clone [Squigl](https://github.com/paulio11/P4-Squigl-Twitter-
 
 <a href="https://www.linkedin.com/in/paulio11/" target="_blank"><img src="assets/linkedin.svg" width="30"/></a>
 
-<a href="https://raw.githubusercontent.com/paulio11/paulio11/main/cv.pdf">Download my CV</a>
-
 <!--
 **paulio11/paulio11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
