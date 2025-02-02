@@ -1,8 +1,6 @@
 ## Hello! I'm Paul, a [Teesside University](https://www.tees.ac.uk) and [Code Institute](https://codeinstitute.net/global/) graduate. 👋🏻
 
-**I have a Bachelor of Arts Degree in Computer Games Art, and a Diploma in Full-Stack Software Development.**
-
-### My Projects
+### Projects
 
 <a href="https://github.com/paulio11/P2-Co-op-Your-Pay"><img src="assets/p2image.png" width="200"/></a>
 <a href="https://github.com/paulio11/P3-Hangman-Python-Terminal-Game"><img src="assets/p3image.png" width="200"/></a>
@@ -10,10 +8,9 @@
 <a href="https://github.com/paulio11/P5-Pokebox"><img src="assets/p5image.png" width="200"/></a>
 <a href="https://github.com/paulio11/P5-Pokebox-API"><img src="assets/apiimage.png" width="200"/></a>
 <a href="https://github.com/paulio11/Co-op-Today"><img src="assets/todayimage.png" width="200"/></a>
-
-### Currently working on:
-
-This page!
+<a href="https://github.com/paulio11/Co-op-Today-React"><img src="assets/todayreactimage.png" width="200"/></a>
+<a href="https://github.com/paulio11/banana"><img src="assets/bananaimage.png" width="200"/></a>
+<a href="https://github.com/paulio11/squigl-react"><img src="assets/squiglv2image.png" width="200"/></a>
 
 <hr />
 
