@@ -11,6 +11,7 @@
 <a href="https://github.com/paulio11/Co-op-Today-React"><img src="assets/todayreactimage.png" width="200"/></a>
 <a href="https://github.com/paulio11/banana"><img src="assets/bananaimage.png" width="200"/></a>
 <a href="https://github.com/paulio11/squigl-react"><img src="assets/squiglv2image.png" width="200"/></a>
+<a href="https://github.com/paulio11/pixel-paint"><img src="assets/pixelpaintimage.png" width="200"/></a>
 
 <hr />
 
